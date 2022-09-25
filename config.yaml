@@ -1,11 +1,15 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'q-bio.*' # 通知が多ければ，q-bio.CB OR q-bio.GN OR q-bio.PE OR q-bio.SCに変更
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        phage: 3
+        fusion: 3
+        multi locus sequence typing: 3
+        ompC: 3
+        model order reduction: 3
+        markov: 3
+        optimal control: 3
 
 # 通知の閾値
 score_threshold: 0
